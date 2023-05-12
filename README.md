@@ -1,19 +1,50 @@
-# Admin panel/dashboard
+# frozen-cloud
 
-This is a simple web admin dashboard template made with flutter web, but the ios and android apps can easily be created with just some clicks with the same codebase! This project uses the GetX package for flutter for a complete solution in navigation, http requests and state management, and it is responsive! The App was made with Flutter, Dart and it uses some other 3rd party libraries. It also includes authentication with firebase. The demo data comes from different dummy APIs.
+<div align="center" style="margin: 30px;">
+    <a href="https://refine.dev">
+    <img src="https://refine.ams3.cdn.digitaloceanspaces.com/refine_logo.png"  align="center" />
+    </a>
+</div>
+<br/>
 
-![image](https://user-images.githubusercontent.com/84020433/218221243-b20daffe-3d95-4662-a9d4-e0602ef60b4d.png)
-
+This [refine](https://github.com/pankod/refine) project was generated with [superplate](https://github.com/pankod/refine).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+**refine** is a React-based framework for building data-intensive applications in no time ✨
 
-A few resources to get you started if this is your first Flutter project:
+Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. Use-cases include, but are not limited to admin panels, B2B applications and dashboards.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Available Scripts
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Running the development server.
+
+```bash
+    npm run dev
+```
+
+### Building for production.
+
+```bash
+    npm run build
+```
+
+### Running the production server.
+
+```bash
+    npm run start
+```
+
+## Learn More
+
+To learn more about **refine**, please check out the [Documentation](https://refine.dev/docs)
+
+- **REST Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
+- **Ant Design** [Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
+- **Inferencer** [Docs](https://refine.dev/docs/packages/documentation/inferencer)
+- **Custom Auth Provider** [Docs](https://refine.dev/docs/core/providers/auth-provider/)
+- **i18n** [Docs](https://refine.dev/docs/core/providers/i18n-provider/)
+
+## License
+
+MIT
